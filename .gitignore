@@ -10,6 +10,7 @@ flask-server/config.py
 flask-server/data
 flask-server/ootd_storage
 flask-server/object_detected_image
+flask-server/models
 
 ### Flask.Python Stack ###
 # Byte-compiled / optimized / DLL files
